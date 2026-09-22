@@ -34,7 +34,7 @@
     "verify-evm-compatibility": "node scripts/verify-evm-compatibility-summary.mjs"
   },
   "dependencies": {
-    "@cookbookdev/docsbot": "^4.24.7",
+    "@cookbookdev/docsbot": "^4.25.15",
     "@crowdin/cli": "^4.7.0",
     "@docusaurus/core": "^3.10.2",
     "@docusaurus/plugin-google-tag-manager": "^3.10.2",

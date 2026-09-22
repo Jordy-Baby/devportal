@@ -1102,10 +1102,10 @@
   resolved "https://registry.npmjs.org/@colors/colors/-/colors-1.5.0.tgz"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@cookbookdev/docsbot@^4.24.7":
-  version "4.25.10"
-  resolved "https://registry.npmjs.org/@cookbookdev/docsbot/-/docsbot-4.25.10.tgz"
-  integrity sha512-obSkzhxHIneFb2FFuXn84IM277oAAIVaqKdSeEjXa+ISb2yphLPNRCMkXrelQfwROQAfk5TmfBxLsvpk64UKww==
+"@cookbookdev/docsbot@^4.25.15":
+  version "4.25.15"
+  resolved "https://registry.yarnpkg.com/@cookbookdev/docsbot/-/docsbot-4.25.15.tgz#9bdbecdca8e91c59433a1cc3270158074ef04fe2"
+  integrity sha512-7V7KYK5sZ+qmZPm5dIpIDUS7N8TSw0XS5iZNCODHwsmHNvd6dZBV1689sQ5RBr/76Cm4/pb5wAoeJ+hc2KxlkQ==
   dependencies:
     "@cookbookdev/sonner" "1.5.1"
     "@floating-ui/devtools" "^0.2.2"
@@ -9361,12 +9361,12 @@ multicast-dns@^7.2.5:
     dns-packet "^5.2.2"
     thunky "^1.0.2"
 
-nanoid@3.3.7, nanoid@^3.3.7:
+nanoid@3.3.7:
   version "3.3.7"
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanoid@^3.3.17:
+nanoid@^3.3.17, nanoid@^3.3.7:
   version "3.3.18"
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.18.tgz"
   integrity sha512-DTg4MJbGMWkfi6VZFdNt2/caMbQy4Ou+Op/hJQvGEWcnVfoA1QA+xzRKAzw9jD6+GVOOeYr/mIcuDSdug6F6+w==
