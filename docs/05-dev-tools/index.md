@@ -469,7 +469,7 @@ This page catalogs developer tools and infrastructure for Rootstock. Use the fil
     color="orange"
     linkHref="https://envio.dev/"
     linkTitle="Access on-chain data"
-    description="Easily query on-chain data through a decentralized network of indexers."
+    description="Index real-time and historical Rootstock data with HyperIndex and query it through a GraphQL API."
   />
 <FilterItem
     value="data, sc"
